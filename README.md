@@ -14,6 +14,8 @@
 - Placement, Routing, Timing Closure, Chip Finishing, Sign Off)
 - Post-Layout Verification (Gate Level Simulation)
 ##	Final Project: “RTL to GDS Implementation of Low Power Configurable Multi Clock Digital System” 
+![image](https://user-images.githubusercontent.com/90535558/226434844-946a2d03-57db-4bde-b90f-e589d1f495f6.png)
+
 Description: It is responsible of receiving commands through UART receiver to do different system functions as register file reading/writing or doing some processing using ALU block and send result as well as CRC bits of result using 4 bytes frame through UART transmitter communication protocol.                 
 ### Project phases: -
 -	RTL Design from Scratch of system blocks (ALU, Register File, Synchronous FIFO, Integer Clock Divider, Clock Gating, Synchronizers, Main Controller, UART TX, UART RX).
@@ -31,5 +33,3 @@ Description: It is responsible of receiving commands through UART receiver to do
 - formality 
 - innovus 
   
-      
- 
